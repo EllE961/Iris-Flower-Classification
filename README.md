@@ -8,5 +8,3 @@ A simple **RandomForest-based classifier** for the Iris dataset, which contains 
 2. **Split the data** into training and testing sets.
 3. **Train a RandomForest classifier** on the training set.
 4. **Evaluate the model** using the testing set and report accuracy, which usually falls between **90% (basic)** and **98% (tuned)**.
-
-This dataset is widely used for educational purposes, making it a great starting point for classification problems.
